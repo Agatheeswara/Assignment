@@ -6,6 +6,7 @@ Rover 1 =  0   0   N
 Rover 2 =  0   0   N
 
 C:\Users\Welcome\go\Assignment>main.exe set -RoverNumber=0 -SetMaxXPosition1=5 -SetMaxYPosition1=5 -SetXPosition1=1 -SetYPosition1=2 -SetDirectionChar1="N" -SetMoveMessage1="LMLMLMLMM" -SetXPosition2=3 -SetYPosition2=3 -SetDirectionChar2="E" -SetMoveMessage2="MMRMMRMRRM"
+
 1   3   N
 5   1   E
 
